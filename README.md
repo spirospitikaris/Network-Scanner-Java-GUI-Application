@@ -1,5 +1,5 @@
 # Network-Scanner-Java
-University Project With Java Submitted at Liverpool John Moores University 2020.
+
 
 Network Scanner made with Java that:
 
