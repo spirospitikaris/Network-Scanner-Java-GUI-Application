@@ -1,4 +1,4 @@
-# Network-Scanner-Java
+# Network-Scanner-Java GUI Application 
 
 
 Network Scanner made with Java that:
